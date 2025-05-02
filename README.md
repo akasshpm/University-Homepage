@@ -1,6 +1,6 @@
 ---
 
-# University-Homepage
+# University Homepage
 
 This project, University-Homepage, is a front-end web application developed as part of a semester project. It is designed to demonstrate the fundamental principles of modern web development using core technologies such as HTML and CSS. The main objective of this project is to build a responsive, accessible, and visually appealing user interface that can serve as a base for future web applications.
 
