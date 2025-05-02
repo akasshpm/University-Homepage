@@ -2,7 +2,7 @@
 
 # University-Homepage
 
-**University webpage** is a simple and clean front-end web interface built for showcasing a sample application layout. Designed as part of a semester project, it focuses on core web technologies like HTML and CSS to create an user-friendly page.
+University webpage is a simple and clean front-end web interface built for showcasing a sample application layout. Designed as part of a semester project, it focuses on core web technologies like HTML and CSS to create an user-friendly page.
 
 ## Table of Contents
 
@@ -74,7 +74,12 @@ To use or modify the University-Homepage:
    Ensure the page looks good on different devices by resizing your browser window or using developer tools.
 
  ## Project Demo
-
+ 
+![Screenshot 2025-05-02 071156](https://github.com/user-attachments/assets/a2eb5bf3-483b-4e32-b17b-7f52e6ced815)
+![Screenshot 2025-05-02 071229](https://github.com/user-attachments/assets/f10e46e3-ef5e-4e57-98b5-692ef5dc4785)
+![Screenshot 2025-05-02 071253](https://github.com/user-attachments/assets/18e1b0a0-79bb-45e4-be85-f9ae3c0ed104)
+![Screenshot 2025-05-02 071319](https://github.com/user-attachments/assets/648c4211-d758-4202-8572-da09b637e2dd)
+![Screenshot 2025-05-02 071336](https://github.com/user-attachments/assets/c68b449d-5050-40b6-9d2f-4807d66a6036)
 
 ## Contributing
 
