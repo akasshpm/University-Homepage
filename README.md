@@ -2,7 +2,11 @@
 
 # University-Homepage
 
-University webpage is a simple and clean front-end web interface built for showcasing a sample application layout. Designed as part of a semester project, it focuses on core web technologies like HTML and CSS to create an user-friendly page.
+This project, University-Homepage, is a front-end web application developed as part of a semester project. It is designed to demonstrate the fundamental principles of modern web development using core technologies such as HTML and CSS. The main objective of this project is to build a responsive, accessible, and visually appealing user interface that can serve as a base for future web applications.
+
+The project features a clean layout, intuitive navigation, and modular code structure, making it easy to maintain and scale. It provides a static prototype of a potential application homepage, focusing on the presentation layer rather than dynamic backend functionality.
+
+By working on this project, the goal was to strengthen understanding of front-end design principles, improve coding practices, and gain hands-on experience in developing real-world web interfaces. This project can also serve as a reference or starting point for more advanced development work.
 
 ## Table of Contents
 
