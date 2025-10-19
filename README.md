@@ -10,9 +10,6 @@ By working on this project, the goal was to strengthen understanding of front-en
 
 ** View the webpage at 90% zoom **
 
-## 🔗 Live Website
-[Visit My Portfolio](http://university-homepage-six.vercel.app/)
-
 
 ## Table of Contents
 
