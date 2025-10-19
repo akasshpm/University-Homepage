@@ -8,6 +8,8 @@ The project features a clean layout, intuitive navigation, and modular code stru
 
 By working on this project, the goal was to strengthen understanding of front-end design principles, improve coding practices, and gain hands-on experience in developing real-world web interfaces. This project can also serve as a reference or starting point for more advanced development work.
 
+** View the webpage at 90% zoom **
+
 ## Table of Contents
 
 - [Description](#description)
