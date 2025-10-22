@@ -440,7 +440,7 @@ h3{
         #text img{
             width: 380px;
             margin-top: 70px;
-            margin-left: 25px;
+            /* margin-left: 25px; */
         }
 
         #about{
@@ -523,5 +523,6 @@ h3{
 html{
     scroll-behavior: smooth;
 }
+
 
 
